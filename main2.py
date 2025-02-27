@@ -1,2 +1,5 @@
 print('SENAC')
 print('rafael')
+print("gustavo")
+print("junior")
+print('rafael')
